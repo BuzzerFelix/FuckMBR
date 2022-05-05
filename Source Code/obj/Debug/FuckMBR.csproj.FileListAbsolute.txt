@@ -1,0 +1,6 @@
+C:\Users\GlebYT\source\repos\FuckMBR\FuckMBR\bin\Debug\FuckMBR.dll
+C:\Users\GlebYT\source\repos\FuckMBR\FuckMBR\bin\Debug\FuckMBR.pdb
+C:\Users\GlebYT\source\repos\FuckMBR\FuckMBR\obj\Debug\FuckMBR.csproj.AssemblyReference.cache
+C:\Users\GlebYT\source\repos\FuckMBR\FuckMBR\obj\Debug\FuckMBR.csproj.CoreCompileInputs.cache
+C:\Users\GlebYT\source\repos\FuckMBR\FuckMBR\obj\Debug\FuckMBR.dll
+C:\Users\GlebYT\source\repos\FuckMBR\FuckMBR\obj\Debug\FuckMBR.pdb
